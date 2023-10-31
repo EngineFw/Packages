@@ -1,0 +1,28 @@
+{
+    "name": "engine/packages",
+    "description": "Package Repo for My Framework",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+        }
+    },
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Martin Bamber"
+        }
+    ],
+    "require-dev": {
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.0.2"
+    }
+
+}
