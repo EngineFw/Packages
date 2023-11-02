@@ -1,5 +1,5 @@
 <?php
-namespace SnorkelWeb\DBManager;
+namespace Engine\DBManager;
 use PDO;
 class Credentials
 {

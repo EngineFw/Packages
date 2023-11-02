@@ -1,10 +1,10 @@
 <?php
 
-namespace SnorkelWeb\DBManager;
+namespace Engine\DBManager;
 
-use SnorkelWeb\DBManager\Credentials;
+use Engine\DBManager\Credentials;
 use PDO;
-use SnorkelWeb\DBManager\Traits\Params;
+use Engine\DBManager\Traits\Params;
 
 class Connection
 {
