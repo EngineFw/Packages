@@ -1,0 +1,18 @@
+{
+    "name": "engine/dbmanager",
+    "description": "Database connection mnager for Engine OS and Framework.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Engine\\DBManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Martin Bamber"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
