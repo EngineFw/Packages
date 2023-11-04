@@ -1,5 +1,5 @@
 {
-    "name": "engine/dbmanager",
+    "name": "enginefw/dbmanager",
     "description": "Database connection mnager for Engine OS and Framework.",
     "type": "library",
     "license": "MIT",
